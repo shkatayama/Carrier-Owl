@@ -6,6 +6,8 @@ keywords:
         high dimension: 3
         treatment effects: 3
         doubly robust: 2
+        causal: 2
+        high-dimensional: 2
         robust: 1
 
 # 通知の閾値

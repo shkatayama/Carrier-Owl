@@ -1,11 +1,12 @@
 # arxivの学問領域の指定
-subject: 'cat:cs.*'
+subject: 'cat:stat.* OR cat:econ.*'
 
 # 検索キーワード
 keywords:
-        kaggle: 3
-        resnet: 3
-        anomaly detection: 1
+        high dimension: 3
+        treatment effects: 3
+        doubly robust: 2
+        robust: 1
 
 # 通知の閾値
 score_threshold: 0

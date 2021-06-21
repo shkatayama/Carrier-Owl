@@ -8,6 +8,7 @@ keywords:
         doubly robust: 2
         causal: 2
         high-dimensional: 2
+        counterfactual: 2
         robust: 1
 
 # 通知の閾値
